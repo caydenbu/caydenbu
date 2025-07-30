@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 💫 About Me:
 📖 Im learning low level languages (C, Assembly) and backend web development<br>🎓 Upcoming Computer Science Student at Oregon State University<br>
 
 # 💻 Tech Stack:
