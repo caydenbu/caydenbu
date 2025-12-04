@@ -5,5 +5,4 @@
 - **BEAT THE ODDS**: a Rogue-Like poker game inspired by Balatro
 
 ⚙️ Im currently working on: 
-- **buOS**: my own operating system 👀
 - **PlaneSpot**: An aviation enthusiast mobile game
